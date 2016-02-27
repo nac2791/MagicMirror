@@ -41,7 +41,7 @@ var config = {
 		defaultSymbol: 'calendar', // Fontawsome Symbol see http://fontawesome.io/cheatsheet/
         urls: [
 		{
-			symbol: 'calendar-plus-o', 
+			symbol: 'calendar-plus-o',
 			url: 'https://p01-calendarws.icloud.com/ca/subscribe/1/n6x7Farxpt7m9S8bHg1TGArSj7J6kanm_2KEoJPL5YIAk3y70FpRo4GyWwO-6QfHSY5mXtHcRGVxYZUf7U3HPDOTG5x0qYnno1Zr_VuKH2M'
 		},
 		{
@@ -63,6 +63,6 @@ var config = {
 		]
     },
     news: {
-        feed: 'http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml'
+        feed: 'http://wild.nhl.com/rss/news.xml'
     }
 }
